@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 function usage {
 	echo "Usage: tpcds-setup.sh scale_factor [temp_directory]"
